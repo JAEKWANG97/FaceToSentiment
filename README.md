@@ -1,4 +1,4 @@
-# FaceToSentiment-
+# FaceToSentiment
 얼굴 인식하여 표정 분석 후 감정 도출
 
 이 프로젝트는 Python을 이용하여 비디오 스트림에서 실시간으로 사람의 얼굴을 인식하고, 표정을 분석하는 애플리케이션입니다. OpenCV, dlib, Keras를 활용하여 구현되었습니다.
@@ -6,7 +6,9 @@
 ## 사전 요구사항
 
 프로젝트를 실행하기 전에, 아래의 라이브러리들이 설치되어 있어야 합니다.
-먼저 윈도우 관련 설정을 해야하는데 해당 블로그 참고했습니다. https://velog.io/@yimethan/Windows10%EC%97%90-CMake-dlib-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-Python-3.10
+먼저 윈도우 관련 설정을 해야하는데 해당 블로그 참고했습니다. 
+
+> https://velog.io/@yimethan/Windows10%EC%97%90-CMake-dlib-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-Python-3.10
 
 - Python 3.6+
 - OpenCV
